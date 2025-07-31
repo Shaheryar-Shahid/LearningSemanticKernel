@@ -1,0 +1,6 @@
+C:\Shaheryar\Azure Trainings\AI Trainings\Semantic Kernel\3- Semantic Kernel\obj\Debug\net8.0\3- Semantic Kernel.csproj.AssemblyReference.cache
+C:\Shaheryar\Azure Trainings\AI Trainings\Semantic Kernel\3- Semantic Kernel\obj\Debug\net8.0\3- Semantic Kernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shaheryar\Azure Trainings\AI Trainings\Semantic Kernel\3- Semantic Kernel\obj\Debug\net8.0\3- Semantic Kernel.AssemblyInfoInputs.cache
+C:\Shaheryar\Azure Trainings\AI Trainings\Semantic Kernel\3- Semantic Kernel\obj\Debug\net8.0\3- Semantic Kernel.AssemblyInfo.cs
+C:\Shaheryar\Azure Trainings\AI Trainings\Semantic Kernel\3- Semantic Kernel\obj\Debug\net8.0\3- Semantic Kernel.csproj.CoreCompileInputs.cache
+C:\Shaheryar\Azure Trainings\AI Trainings\Semantic Kernel\3- Semantic Kernel\obj\Debug\net8.0\3- Semantic Kernel.sourcelink.json

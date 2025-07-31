@@ -23,6 +23,7 @@ cd Tutorial_Prompt_Code
 
 ```
 dotnet add package Microsoft.SemanticKernel
+dotnet add package Microsoft.SemanticKernel.Connectors.Ollama --version 1.61.0-alpha
 ```
 
 ## Step 3 - Lets do a basic code
@@ -39,16 +40,12 @@ var baseUrl = "http://localhost:11434";
 var model = "llama3";
 ```
 
-### setup ollama chat service
-```csharp
-var ollama = new OllamaChatCompletionService(model, baseUrl);
-```
-
 ### setup the kernel
 ```csharp
 // Create the kernel
 var builder = Kernel.CreateBuilder();
-builder.AddChatCompletionService(ollama);
+var builder = Kernel.CreateBuilder();
+builder.AddOllamaChatCompletion(model,new Uri(baseUrl));
 var kernel = builder.Build();
 ```
 ### simple prompt
@@ -78,12 +75,9 @@ class Program
         var baseUrl = "http://localhost:11434";
         var model = "llama3";
 
-        // Setup Ollama chat service
-        var ollama = new OllamaChatCompletionService(model, baseUrl);
-
         // Create the kernel
         var builder = Kernel.CreateBuilder();
-        builder.AddChatCompletionService(ollama);
+        builder.AddOllamaChatCompletion(model,new Uri(baseUrl));
         var kernel = builder.Build();
 
         // Simple user prompt
