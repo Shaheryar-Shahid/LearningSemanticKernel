@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rn9RQgK+LMg=",
+  "dgSpecHash": "obQH5hVRU4g=",
   "success": true,
-  "projectFilePath": "D:\\Python Env\\Agentic AI - Hackathon\\LearningSemanticKernel\\3- Semantic Kernel\\SemanticKernel.csproj",
+  "projectFilePath": "D:\\Cubivue\\LearningSemanticKernel\\3- Semantic Kernel\\SemanticKernel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shaheryar.shahid\\.nuget\\packages\\azure.ai.openai\\2.2.0-beta.5\\azure.ai.openai.2.2.0-beta.5.nupkg.sha512",
     "C:\\Users\\shaheryar.shahid\\.nuget\\packages\\azure.core\\1.47.0\\azure.core.1.47.0.nupkg.sha512",

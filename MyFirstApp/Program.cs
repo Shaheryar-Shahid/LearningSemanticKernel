@@ -3,14 +3,13 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.ChatCompletion;
-//using Microsoft.SemanticKernel.Connectors.OpenAI;
 using Microsoft.SemanticKernel.Connectors.Ollama;
 
 // Populate values from your deployment
 var modelId = "";
 var endpoint = "";
 
-var builder = Kernel.CreateBuilder().AddOllamaChatCompletion(modelId, endpoint);
+var builder = Kernel.CreateBuilder().AddOllamaChatCompletion(modelId, new Uri(endpoint));
 
 builder.Services.AddLogging(services => services.AddConsole().SetMinimumLevel(LogLevel.Trace));
 
@@ -20,7 +19,7 @@ var chatCompletionService = kernel.GetRequiredService<IChatCompletionService>();
 kernel.Plugins.AddFromType<LightsPlugin>("Lights");
 
 // Enable planning
-OpenAIPromptExecutionSettings openAIPromptExecutionSettings = new()
+OllamaPromptExecutionSettings  promptExecutionSettings  = new()
 {
     FunctionChoiceBehavior = FunctionChoiceBehavior.Auto()
 };
@@ -42,7 +41,7 @@ do
     // Get the response from the AI
     var result = await chatCompletionService.GetChatMessageContentAsync(
         history,
-        executionSettings: openAIPromptExecutionSettings,
+        executionSettings: promptExecutionSettings,
         kernel: kernel);
 
     // Print the results

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Python Env\\Agentic AI - Hackathon\\LearningSemanticKernel\\3- Semantic Kernel\\SemanticKernel.csproj": {}
+    "D:\\Cubivue\\LearningSemanticKernel\\3- Semantic Kernel\\SemanticKernel.csproj": {}
   },
   "projects": {
-    "D:\\Python Env\\Agentic AI - Hackathon\\LearningSemanticKernel\\3- Semantic Kernel\\SemanticKernel.csproj": {
+    "D:\\Cubivue\\LearningSemanticKernel\\3- Semantic Kernel\\SemanticKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Python Env\\Agentic AI - Hackathon\\LearningSemanticKernel\\3- Semantic Kernel\\SemanticKernel.csproj",
+        "projectUniqueName": "D:\\Cubivue\\LearningSemanticKernel\\3- Semantic Kernel\\SemanticKernel.csproj",
         "projectName": "SemanticKernel",
-        "projectPath": "D:\\Python Env\\Agentic AI - Hackathon\\LearningSemanticKernel\\3- Semantic Kernel\\SemanticKernel.csproj",
+        "projectPath": "D:\\Cubivue\\LearningSemanticKernel\\3- Semantic Kernel\\SemanticKernel.csproj",
         "packagesPath": "C:\\Users\\shaheryar.shahid\\.nuget\\packages\\",
-        "outputPath": "D:\\Python Env\\Agentic AI - Hackathon\\LearningSemanticKernel\\3- Semantic Kernel\\obj\\",
+        "outputPath": "D:\\Cubivue\\LearningSemanticKernel\\3- Semantic Kernel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
