@@ -24,9 +24,8 @@ you can also run curl commands like
 
 - Pull a model and chat
 ```
-curl http://localhost:11434/api/pull -d '{"name": "llama3"}'
-curl http://localhost:11434/api/chat -d '{
-  "model": "llama3",
-  "messages": [{"role": "user", "content": "Hello!"}]
-}'
+curl http://localhost:11434/api/pull -Method POST -Body '{"name":"llama3"}' -ContentType "application/json"
+
+curl http://localhost:11434/api/chat -Method POST -Body '{"model":"llama3","messages":[{"role":"user","content":"Hello!"}]}' -ContentType "application/json"
+
 ```

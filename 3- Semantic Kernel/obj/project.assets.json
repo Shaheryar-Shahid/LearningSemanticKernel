@@ -1402,19 +1402,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shahe\\.nuget\\packages\\": {}
+    "C:\\Users\\shaheryar.shahid\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Shaheryar\\Azure Trainings\\AI Trainings\\Semantic Kernel\\3- Semantic Kernel\\SemanticKernel.csproj",
+      "projectUniqueName": "D:\\Python Env\\Agentic AI - Hackathon\\LearningSemanticKernel\\3- Semantic Kernel\\SemanticKernel.csproj",
       "projectName": "SemanticKernel",
-      "projectPath": "C:\\Shaheryar\\Azure Trainings\\AI Trainings\\Semantic Kernel\\3- Semantic Kernel\\SemanticKernel.csproj",
-      "packagesPath": "C:\\Users\\Shahe\\.nuget\\packages\\",
-      "outputPath": "C:\\Shaheryar\\Azure Trainings\\AI Trainings\\Semantic Kernel\\3- Semantic Kernel\\obj\\",
+      "projectPath": "D:\\Python Env\\Agentic AI - Hackathon\\LearningSemanticKernel\\3- Semantic Kernel\\SemanticKernel.csproj",
+      "packagesPath": "C:\\Users\\shaheryar.shahid\\.nuget\\packages\\",
+      "outputPath": "D:\\Python Env\\Agentic AI - Hackathon\\LearningSemanticKernel\\3- Semantic Kernel\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Shahe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shaheryar.shahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1422,8 +1427,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.nuget.org/api/v2": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -1435,7 +1439,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -1466,7 +1476,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

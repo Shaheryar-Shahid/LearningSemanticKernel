@@ -41,3 +41,44 @@ C:\Shaheryar\Azure Trainings\AI Trainings\Semantic Kernel\3- Semantic Kernel\obj
 C:\Shaheryar\Azure Trainings\AI Trainings\Semantic Kernel\3- Semantic Kernel\obj\Debug\net8.0\SemanticKernel.pdb
 C:\Shaheryar\Azure Trainings\AI Trainings\Semantic Kernel\3- Semantic Kernel\obj\Debug\net8.0\SemanticKernel.genruntimeconfig.cache
 C:\Shaheryar\Azure Trainings\AI Trainings\Semantic Kernel\3- Semantic Kernel\obj\Debug\net8.0\ref\SemanticKernel.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\SemanticKernel.exe
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\SemanticKernel.deps.json
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\SemanticKernel.runtimeconfig.json
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\SemanticKernel.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\SemanticKernel.pdb
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Azure.AI.OpenAI.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Azure.Core.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.Extensions.AI.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.Extensions.AI.Abstractions.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.Extensions.AI.OpenAI.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.Extensions.VectorData.Abstractions.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.SemanticKernel.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.SemanticKernel.Abstractions.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.SemanticKernel.Connectors.AzureOpenAI.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.SemanticKernel.Connectors.Ollama.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.SemanticKernel.Connectors.OpenAI.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\Microsoft.SemanticKernel.Core.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\OllamaSharp.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\OpenAI.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\System.ClientModel.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\bin\Debug\net8.0\System.Numerics.Tensors.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\obj\Debug\net8.0\SemanticKernel.csproj.AssemblyReference.cache
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\obj\Debug\net8.0\SemanticKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\obj\Debug\net8.0\SemanticKernel.AssemblyInfoInputs.cache
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\obj\Debug\net8.0\SemanticKernel.AssemblyInfo.cs
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\obj\Debug\net8.0\SemanticKernel.csproj.CoreCompileInputs.cache
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\obj\Debug\net8.0\SemanticKernel.sourcelink.json
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\obj\Debug\net8.0\Semantic.F88FB2FB.Up2Date
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\obj\Debug\net8.0\SemanticKernel.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\obj\Debug\net8.0\refint\SemanticKernel.dll
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\obj\Debug\net8.0\SemanticKernel.pdb
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\obj\Debug\net8.0\SemanticKernel.genruntimeconfig.cache
+D:\Python Env\Agentic AI - Hackathon\LearningSemanticKernel\3- Semantic Kernel\obj\Debug\net8.0\ref\SemanticKernel.dll
